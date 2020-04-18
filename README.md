@@ -11,7 +11,7 @@ Documentに沿ってCordaを利用してみるプロジェクト。
 cd cordapp-example
 git checkout release-V4
 ```
-a
+
 ### SDKの設定 ad
 プロジェクトで利用するJavaのSystem Development Kitを設定。アノテーション情報などが含まれる。
 Java 8以上(1.0.8)
